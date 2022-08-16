@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Analista de Sistemas Junior
 - 👨‍🎓 Estudando Sistemas da Informação
-- 👨‍💻 Hard Skill: JavaScript, React.js, Node.js, HTML5, CSS(Scss)
+- 👨‍💻 Hard Skill: JavaScript, React.js, Node.js, HTML5, CSS(Sass)
 - 😄 Pronouns: Ele/Dele
 -->
 
