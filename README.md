@@ -3,7 +3,8 @@
 - 🔭 Full stack developer and DevOps enthusiast
 - 👨‍🎓 Graduado em SI
 - 👨‍💻 Node.js | Python | TypeScript | React.js | MySQL | PostgreSQL | AWS | EC2 | S3 | EKS | ECS | SQS | Lambda | Linux | Docker | Microsserviços | Pentaho | Git/GitHub | CI/CD
--->
+- 
+- 
 
 <div align="center">
   <a href="https://github.com/Fjunior08">
